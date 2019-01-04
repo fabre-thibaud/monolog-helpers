@@ -1,0 +1,22 @@
+{
+  "name": "fabre-thibaud/monolog-helpers",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/fabre-thibaud/monolog-helpers",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thibaud Fabre"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "monolog/monolog": "^1.17"
+  },
+  "autoload": {
+    "psr-4": {
+      "TFabre\\Monolog\\": "src/"
+    }
+  }
+}
