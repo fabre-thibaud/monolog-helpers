@@ -1,6 +1,6 @@
 <?php
 
-namespace Tfabre\Monolog\Processor;
+namespace TFabre\Monolog\Processor;
 
 class GelfContextProcessor
 {
